@@ -13,13 +13,13 @@ header:
       url: "https://explor.ai/fr/calendar/hugues"
 excerpt: "Site Biographique du très honorable Hugues Mailhot"
 intro: 
-  - excerpt: 'Toutes les histoires croustillantes relatées en un seul endroit!'
+  - excerpt: ' '
 feature_row:
   - image_path: assets/images/desk.png
     alt: "Hugues Boss"
     title: "La marque Hugues Boss"
     excerpt: "Hugues Boss, la seule marque dont vous avez réèlement besoin pour réussir!"
-  - image_path: /assets/images/cahier.jpg
+  - image_path: /assets/images/cahier.png
     title: "Innovation et succès, en un seul endroit!"
     excerpt: "L'innovation vous attend!"
     url: "https://explor.ai"
