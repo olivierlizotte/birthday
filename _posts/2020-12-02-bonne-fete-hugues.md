@@ -6,6 +6,11 @@ categories:
 tags:
   - Jekyll
   - update
+header:
+  overlay_image: /assets/images/bkg-tshirt.png
+  actions:
+    - label: "Explorai Hugues"
+      url: "https://explor.ai/fr/calendar/hugues"
 ---
 
 De la part de toute l'équipe d'Explorai, Bonne Fête! 
