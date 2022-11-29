@@ -68,6 +68,12 @@ author:
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/hugues-mailhot-92843a14/"
 
+header:
+  overlay_image: /assets/images/bkg-tshirt.png
+  actions:
+    - label: "Explorai Hugues"
+      url: "https://explor.ai/fr/calendar/hugues"
+      
 footer:
   links:
     - label: "Website"
