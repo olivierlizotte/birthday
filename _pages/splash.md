@@ -24,7 +24,7 @@ feature_row:
     url: "/blog/post-link2/"
     btn_label: "Visionner l'archive"
     btn_class: "btn--primary"
-  - image_path: /assets/images/bkg-planete.png
+  - image_path: /assets/images/annonce.png
     title: "Une Rock Star est née!"
     excerpt: "Visionnez les archives de sa première carrière de Rock Star!"
     url: "/blog/post-link/"
