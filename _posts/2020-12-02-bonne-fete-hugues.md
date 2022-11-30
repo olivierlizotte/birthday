@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - update
 header:
-  overlay_image: /assets/images/bkg-tshirt.png
+  overlay_image: /assets/images/bkg-numbers.png
   actions:
     - label: "Explorai Hugues"
       url: "https://explor.ai/fr/calendar/hugues"
