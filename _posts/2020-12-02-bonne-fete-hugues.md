@@ -7,7 +7,7 @@ tags:
   - Jekyll
   - update
 header:
-  overlay_image: /assets/images/bkg-numbers.png
+  overlay_image: /assets/images/bkg-serveurs.png
   actions:
     - label: "Explorai Hugues"
       url: "https://www.jibjab.com/view/make/fantastaco-starring-you-clip/f4514c61-6a6d-4fdf-a641-307202d9bab2"
