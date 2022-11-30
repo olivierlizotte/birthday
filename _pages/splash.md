@@ -17,17 +17,19 @@ feature_row:
     excerpt: "Hugues Boss, la seule marque dont vous avez réèlement besoin pour réussir!"
     url: "blog/bonne-fete-hugues/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "Bonne fête Hugues!"
   - image_path: /assets/images/cahier.png
-    title: "Innovation et succès, en un seul endroit!"
-    excerpt: "L'innovation vous attend!"
-    url: "https://explor.ai"
-    btn_label: "Explorai explorai"
+    title: "Un combattant hors paire!"
+    excerpt: "Voyez Hugues en plein entraînement!"
+    url: "/blog/post-link2/"
+    btn_label: "Visionner l'archive"
     btn_class: "btn--primary"
   - image_path: /assets/images/bkg-planete.png
-    title: "L'idée du siècle"
-    excerpt: "Ne manquez pas cette opportunité d'Explorai toutes les facettes de Hugues!"
-
+    title: "Une Rock Star est née!"
+    excerpt: "Visionnez les archives de sa première carrière de Rock Star!"
+    url: "/blog/post-link/"
+    btn_class: "btn--primary"
+    btn_label: "Visionner l'archive"      
 ---
 
 {% include feature_row %}
